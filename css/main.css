@@ -49,13 +49,12 @@ a:hover {
 
   h1 {
     text-align: left;
-    padding-left: 1em;
-    margin-bottom: 1rem;
   }
 
   li {
     text-align: right;
   }
+
 }
 
 @media only screen and (min-width: 90em) {
