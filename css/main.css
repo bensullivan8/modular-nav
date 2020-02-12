@@ -33,16 +33,11 @@ li {
 a {
   text-decoration: none;
   color: #0074d9;
-  padding: .5em;
 }
 
 a:hover {
   color: #fff;
   background-color: #0074d9;
-}
-
-@media only screen and (min-width: 38em) {
-
 }
 
 @media only screen and (min-width: 60em) {
@@ -54,9 +49,5 @@ a:hover {
   li {
     text-align: right;
   }
-
-}
-
-@media only screen and (min-width: 90em) {
 
 }
